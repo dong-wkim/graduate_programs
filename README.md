@@ -7,10 +7,10 @@ Doing an extramural PhD in medicine **and** a masters in Data Science is not goi
 2. Get a list of pre-requisite coursework for non-programming-related students entering into informatics studies. 
 
 ## Checklist
-   - [ ] get a list of degrees, fields, and universities
+   - [ ] get a list of 25 universities
    - [ ] filter list for **online**, fully-funded
-   - [ ] prepare application for programs
-   - [ ] start by Spring semester of 2026.
+   - [ ] prepare application for 5 programs
+   - [ ] start by Spring semester of 2026
 
 ## Search for programs
 
@@ -32,6 +32,13 @@ Doing an extramural PhD in medicine **and** a masters in Data Science is not goi
   - Arizona State University
   - Columbia University
   - University of Illinois Chicago
+  - Johns Hopkins
+  - Indiana University
+  - University of North Carolina
+  - George Mason University
+  - UCSF
+  - University of Texas Health
+
 
 ## Links
 
