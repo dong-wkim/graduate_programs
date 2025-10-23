@@ -3,6 +3,9 @@
 Find a doctoral program that is fully-funded, online, and in a field that combines medicine with programming (e.g., data science).  
 Doing an extramural PhD in medicine **and** a masters in Data Science is not going to be possible on top of residency.  
 
+1. Find information on whether schools outside of the U.S. give stipends/fund doctoral students.
+2. Get a list of pre-requisite coursework for non-programming-related students entering into informatics studies. 
+
 ## Checklist
    - [ ] get a list of degrees, fields, and universities
    - [ ] filter list for **online**, fully-funded
