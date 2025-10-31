@@ -59,4 +59,8 @@ Online, masters/phd programs in medicine-related informatics:
 2. Apply to rolling-admissions/January-start programs
 3. Apply to competitive programs for Fall (most of these follow traditional apply-wait 6 months-start timeline)
 
+Possible routes:
+1. Straight into doctoral program that is online and medicine-related informatics 
+2. Switch into masters in health, medical or biomedical informatics, get PhD at UJ and do post-doc in Biomedical Informatics at UJ/Poland/online
+
 --> 
