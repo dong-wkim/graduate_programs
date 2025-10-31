@@ -7,7 +7,12 @@ Doing an extramural PhD in medicine **and** a masters in Data Science is not goi
 2. Get a list of pre-requisite coursework for non-programming-related students entering into informatics studies. 
 
 ## Checklist
-   - [ ] get a list of 25 universities
+
+**1. List of programs**:
+   - [ ] make a list of programs
+   - [ ] get a list of universities that are self-paced (start in November/December)
+   - [ ] get a list of universities that have January start date
+   - [ ] cross-filter for universities and programs and apply
    - [ ] filter list for **online**, fully-funded
    - [ ] prepare application for 5 programs
    - [ ] start by Spring semester of 2026
