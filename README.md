@@ -51,4 +51,12 @@ Doing an extramural PhD in medicine **and** a masters in Data Science is not goi
 
 [doctoral-programs-url]: https://docs.google.com/spreadsheets/d/1edW-5pGyeC6AggLRSvLAXPCYXXs5VONz7e9diked9YE/edit?gid=1512360815#gid=1512360815
 
-## 
+<!-- Notes/comments:
+
+Online, masters/phd programs in medicine-related informatics:
+
+1. Apply to self-paced programs (November/December)
+2. Apply to rolling-admissions/January-start programs
+3. Apply to competitive programs for Fall (most of these follow traditional apply-wait 6 months-start timeline)
+
+--> 
