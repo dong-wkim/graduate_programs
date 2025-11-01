@@ -67,15 +67,12 @@ Preferences:
 
 ## Links
 
-**Spreadsheets**:
-   - [Google Sheets - doctoral programs][doctoral-programs-url]
-   - [Google Sheets - doctoral programs][doctoral-programs-url]
+[Google Sheets - doctoral programs][doctoral-programs-url]  
+[Google Sheets - doctoral programs][doctoral-programs-url]  
+[QS World Rankings - Medicine][top-medical-universities-url]  
+[American Medical Informatics Association - Accredited Online Health Informatics Programs][amia-url]  
+[American Health Informatics Management][ahima-url]  
 
-**Websites**:  
-   - [QS World Rankings - Medicine][top-medical-universities-url]
-   - [American Medical Informatics Association - Accredited Online Health Informatics Programs][amia-url]
-   - [American Health Informatics 
-[ahima-url]
 [doctoral-programs-url]: https://docs.google.com/spreadsheets/d/1edW-5pGyeC6AggLRSvLAXPCYXXs5VONz7e9diked9YE/edit?gid=1512360815#gid=1512360815
 [graduate-programs-url]: https://docs.google.com/spreadsheets/d/11psV8wuVQwRSbZ5kGYFAD1tEE85B7rHW6i40CA_qkpo/edit?gid=53742875#gid=53742875
 [top-medical-universities-url]: https://www.topuniversities.com/university-subject-rankings/medicine
