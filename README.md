@@ -1,18 +1,5 @@
 # Graduate Programs
 
-**Goal**: Find a doctoral program that is fully-funded, online, and in a field that combines medicine with programming (e.g., data science).  
-**Why?**: Extramural PhD in Poland costs 15000-20000zł for dissertation/defense. And doing an in-person PhD in medicine **and** a masters in Data Science is not going to be possible on top of residency. **Solution**: Find an online masters or PhD program where you can do research, get paid, and enter the technical side of medicine.
-
-1. Find information on whether schools outside of the U.S. give stipends/fund doctoral students.
-2. Get a list of pre-requisite coursework for non-programming-related students entering into informatics studies. 
-
-1. Online doctorate degree in health informatics:
-   - Rutgers University
-   - University of Texas
-  
-2. Online master's degree in health informatics
-
-
 Fields:  
 
    1. **Biomedical informatics**: 
@@ -27,48 +14,19 @@ Preferences:
 
 ## Checklist
 
-**1. List of programs**:
    - [x] list of self-paced online universities
    - [x] list of top medical universities
       - [ ] list of available online PhD/MS programs
    - [x] list of online health informatics PhD/MS degree programs
-   - [ ] list of online biomedical informatics PhD/MS degree programs
+   - [x] list of online medical informatics PhD/MS degree programs
    - [ ] list of online clinical informatics PhD/MS degree programs
    - [ ] cross-filter and cut down to a list of 10 most-interested online programs
    - [ ] prepare applications for 5 programs
 
-## Search for programs
-
-**Degrees**: 
-  - PhD
-  - MS
-
-**Fields**: 
-  - biomedical informatics
-  - health informatics
-  - medical informatics   
-
-**Universities**: 
-  Google search for: "biomedical informatics phd online remote"  
-  - Harvard
-  - Stanford
-  - University of Utah
-  - Tulane
-  - Arizona State University
-  - Columbia University
-  - University of Illinois Chicago
-  - Johns Hopkins
-  - Indiana University
-  - University of North Carolina
-  - George Mason University
-  - UCSF
-  - University of Texas Health
-
-
 ## Links
 
-[Google Sheets - doctoral programs][doctoral-programs-url]  
-[Google Sheets - doctoral programs][doctoral-programs-url]  
+[Google Sheets - doctoral programs (version 1)][doctoral-programs-url]  
+[Google Sheets - graduate programs (version 2)][graduate-programs-url]  
 [QS World Rankings - Medicine][top-medical-universities-url]  
 [American Medical Informatics Association - Accredited Online Health Informatics Programs][amia-url]  
 [American Health Informatics Management][ahima-url]  
