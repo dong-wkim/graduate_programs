@@ -1,1 +1,26 @@
-id,university,degree,program,mode,application_deadline,semester_start_date
+﻿ID,Program,University,Degree,Format
+1,Applied Health Sciences Informatics,Johns Hopkins University School of Medicine,MS,Online
+2,Clinical Informatics & Patient-Centered Technologies (CIPCT),University of Washington,MS,Online
+3,Concentration in Health Informatics and Data Analytics,Texas State University,MS,Online
+4,Dual Degree MS in Biomedical Informatics and Master of Public Health (MS/MPH),McWilliams School of Biomedical Informatics at UTHealth Houston,MS,Online
+5,Dual Degree Program â€“ MD/MS in Biomedical Informatics,McWilliams School of Biomedical Informatics at UTHealth Houston,MS,Online
+6,Health Care Informatics MS,University of Central Florida,MS,Online
+7,Health Informatics and Information Management,Louisiana Tech University,MS,Online
+8,Health Informatics,Nova Southeastern University,MS,Online
+9,Master of Advanced Study in Health Informatics,Arizona State University,MS,Online
+10,Master of Health Informatics and Information Management,University of Mississippi Medical Center,MS,Online
+11,Master of Science in Applied Health Informatics,SUNY Stony Brook University,MS,Online
+12,Master of Science in Biomedical Informatic,McWilliams School of Biomedical Informatics at UTHealth Houston,MS,Online
+13,Master of Science in Clinical & Health Informatics,University of Wisconsin-Madison,MS,Online
+14,Master of Science in Health Informatics,University of Alabama at Birmingham,MS,Online
+15,Master of Science in Health Informatics,George Mason University,MS,Online
+16,Master of Science in Health Informatics (MSHI),University of Pittsburgh School of Health and Rehabilitation Sciences,MS,Online
+17,Master of Science in Health Informatics (MSHI),Massachusetts College of Pharmacy and Health Sciences (MCPHS),MS,Online
+18,Master's in Health Informatics,Northwestern University Feinberg School of Medicine,MS,Online
+19,Master's in Health Informatics,Louisiana Tech University,MS,Online
+20,Masters of Science in Biomedical Informatics â€“ Honors Cooperative Program (HCP),Stanford University,MS,Online
+21,MS in Health & Analytics,Florida International University,MS,Online
+22,Health Informatics,McWilliams School of Biomedical Informatics at UTHealth Houston,PhD,Online
+23,,,,
+24,,,,
+25,,,,

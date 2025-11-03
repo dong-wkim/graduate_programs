@@ -10,7 +10,7 @@ Doing an extramural PhD in medicine **and** a masters in Data Science is not goi
 
 **1. List of programs**:
    - [ ] make a list of programs
-   - [ ] get a list of universities that are self-paced (start in November/December)
+   - [x] get a list of universities that are self-paced (start in November/December)
    - [ ] get a list of universities that have January start date
    - [ ] cross-filter for universities and programs and apply
    - [ ] filter list for **online**, fully-funded
@@ -18,6 +18,9 @@ Doing an extramural PhD in medicine **and** a masters in Data Science is not goi
    - [ ] start by Spring semester of 2026
 
 ## Search for programs
+
+PhD at UJ w/ Konrad --> post-doc/hab/prof in Medical Informatics/biomedical engineering (medicine + informatics/engineering)
+Masters Data Science --> Masters in informatics/computer science 
 
 **Degrees**: 
   - PhD
