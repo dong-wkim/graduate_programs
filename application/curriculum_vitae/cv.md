@@ -1,6 +1,4 @@
-# Resume/CV
 
-::: twocolumns
 
 # PERSONAL INFORMATION
 
@@ -31,7 +29,6 @@ Chestnut Hill, MA, United States  \
 **iEBA-WG**, *International Evidence-Based Anatomy Working Group*, June 2021–2023.  \
   Position: Graduate Research Fellow  
   
-\columnbreak  
   
 # INFORMACJE PODSTAWOWE
 
@@ -82,7 +79,7 @@ Uniwersytet Jagielloński Collegium Medicum
 
 [3] Patellar Base Support Technique During Manipulation Under Anesthesia for Knee Arthrofibrosis Limits the Risk of Iatrogenic Complications. *Arthrosc Tech. 2023* Nov 27;12(12):e2321-e2327. doi: 10.1016/j.eats.2023.08.001  
 
-[2]Evidence-based research in orthopaedics, sports medicine and rehabilitation-Why new studies should rely on earlier work. *Knee Surg Sports Traumatol Arthrosc.* 2024 Oct 21. doi: 10.1002/ksa.12474  
+[2] Evidence-based research in orthopaedics, sports medicine and rehabilitation-Why new studies should rely on earlier work. *Knee Surg Sports Traumatol Arthrosc.* 2024 Oct 21. doi: 10.1002/ksa.12474  
 
 [1] Anatomy of the greater palatine foramen and canal and their clinical significance in relation to the greater palatine artery: a systematic review and meta-analysis. *Surg Radiol Anat*. 2023 Feb;45(2):101-119. doi: 10.1007/s00276-022-03061-z  
 
@@ -103,7 +100,7 @@ Uniwersytet Jagielloński Collegium Medicum
 
   - awarded on the basis of outstanding scientific achievements  
 
-\columnbreak  
+  
 
 # PREZENTACJE 
 
